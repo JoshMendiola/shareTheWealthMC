@@ -1,0 +1,6 @@
+name: shareTheWealthMC
+version: 1.0
+api-version: 1.16
+author: MCPC
+main: club.MCPC.shareTheWealthMC.Main
+description: this plugin distributes valuable resources between all of the current players on the server
